@@ -1,0 +1,29 @@
+{
+  "name": "settingupnode",
+  "version": "1.0.0",
+  "description": "PoC",
+  "main": "test",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AkhnovskayaYuliya/7.2.Node.js.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "akhnovskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhnovskayaYuliya/7.2.Node.js/issues"
+  },
+  "homepage": "https://github.com/AkhnovskayaYuliya/7.2.Node.js#readme",
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "prettier": "3.1.1"
+  }
+}
